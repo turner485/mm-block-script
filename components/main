@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python get_product.py &&
+python build.py
